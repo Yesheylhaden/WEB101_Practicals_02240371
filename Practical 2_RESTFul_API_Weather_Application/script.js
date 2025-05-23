@@ -1,5 +1,5 @@
 // Configuration and Constants
-const WEATHER_API_KEY = '5aa1bad8e4bd626b2f8327f53086ed3c'; // Replace with your API key
+const WEATHER_API_KEY = '24ff900eb0b1445e93a9f60fc2de550a'; // Replace with your API key
 const WEATHER_API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 const PLACEHOLDER_API_URL = 'https://jsonplaceholder.typicode.com/posts';
 
